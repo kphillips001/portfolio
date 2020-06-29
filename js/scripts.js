@@ -62,10 +62,16 @@
 
   //Portfolio
 
-const card1 = document.querySelector(".portfolio-box");
+const card1 = document.querySelector(".one");
 card1.onclick = function() {
     window.location.href = 'https://www.datadriventransit.org/'
 };
+
+const card4 = document.querySelector(".two");
+card4.onclick = function() {
+    window.location.href = 'https://angry-jennings-438a8e.netlify.app/'
+};
+
 
 
 })(jQuery); // End of use strict
