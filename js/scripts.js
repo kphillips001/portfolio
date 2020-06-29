@@ -60,4 +60,12 @@
     }
   });
 
+  //Portfolio
+
+const card1 = document.querySelector(".portfolio-box");
+card1.onclick = function() {
+    window.location.href = 'https://www.datadriventransit.org/'
+};
+
+
 })(jQuery); // End of use strict
