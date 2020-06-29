@@ -67,7 +67,12 @@ card1.onclick = function() {
     window.location.href = 'https://www.datadriventransit.org/'
 };
 
-const card4 = document.querySelector(".two");
+const card2 = document.querySelector(".two");
+card2.onclick = function() {
+    window.location.href = 'https://epic-wing-9175cf.netlify.app/'
+};
+
+const card4 = document.querySelector(".four");
 card4.onclick = function() {
     window.location.href = 'https://angry-jennings-438a8e.netlify.app/'
 };
