@@ -602,6 +602,13 @@ pre code {
   margin-left: -15px;
 }
 
+.follow {
+  display: flex;
+  justify-content: space-evenly;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
 .no-gutters {
   margin-right: 0;
   margin-left: 0;

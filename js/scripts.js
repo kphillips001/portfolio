@@ -72,6 +72,11 @@ card2.onclick = function() {
     window.location.href = 'https://epic-wing-9175cf.netlify.app/'
 };
 
+const card3 = document.querySelector(".three");
+card3.onclick = function() {
+    window.location.href = 'https://brave-jepsen-1f83dd.netlify.app/'
+};
+
 const card4 = document.querySelector(".four");
 card4.onclick = function() {
     window.location.href = 'https://angry-jennings-438a8e.netlify.app/'
